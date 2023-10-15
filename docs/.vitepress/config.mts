@@ -7,6 +7,8 @@ export default defineConfig({
   head: [
     ['link', { rel: 'shortcut icon', href: "/favicon.ico" }],
   ],
+  base: '/chrome-kitchen/',
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     // nav: [
