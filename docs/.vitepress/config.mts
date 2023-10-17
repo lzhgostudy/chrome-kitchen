@@ -27,7 +27,11 @@ export default defineConfig({
           { 
             text: "Hello Extension",
             link: "/quick-start/hello-extension"
-          }
+          },
+          { 
+            text: "Reading Time",
+            link: "/quick-start/reading-time"
+          },
         ]
       },
       {
