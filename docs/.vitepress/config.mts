@@ -22,6 +22,15 @@ export default defineConfig({
         link: "/preface",
       },
       {
+        text: "快速开始",
+        items: [
+          { 
+            text: "Hello Extension",
+            link: "/quick-start/hello-extension"
+          }
+        ]
+      },
+      {
         text: '核心概念',
         items: [
           { text: 'manifest.json', link: '/core-concept/manifest' },
