@@ -22,5 +22,8 @@
   "license": "ISC",
   "devDependencies": {
     "vitepress": "1.0.0-rc.22"
+  },
+  "dependencies": {
+    "element-plus": "^2.4.1"
   }
 }
